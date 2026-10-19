@@ -1,0 +1,23 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Local/private datasets (keep the generic data/videos.csv demo file)
+data/videos_private.csv
+data/my_tiktok_data.csv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
