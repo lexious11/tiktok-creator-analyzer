@@ -52,3 +52,9 @@ The file `data/videos.csv` is a small illustrative demo dataset so the app can l
 ## Tech stack
 
 Python · Streamlit · Pandas · Google Gemini API
+
+## 🚀 Live Demo
+
+Try the application here:
+
+[TikTok Creator Analyzer](https://tiktok-creator-analyzer-nj2swuvkrwwocrerjy8yfr.streamlit.app/)
